@@ -6,7 +6,6 @@
   <name>Postman</name>
   <summary>Platform for building and using APIs</summary>
   <description>
-    <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by Postman Inc.**</p>    
     <p>
       Postman is the complete toolchain for API developers, used by 5 million
       developers and more than 100,000 companies worldwide to access 130 million
@@ -24,8 +23,14 @@
   <url type="homepage">https://www.postman.com</url>
   <developer_name>Postman Inc.</developer_name>
   <releases>
-    <release version="12.20.0" date="2026-07-20">
+    <release version="12.20.2" date="2026-07-22">
       <description></description>
+    </release>
+    <release version="12.20.1" date="2026-07-21">
+      <description/>
+    </release>
+    <release version="12.20.0" date="2026-07-20">
+      <description/>
     </release>
     <release version="12.19.6" date="2026-07-17">
       <description/>
